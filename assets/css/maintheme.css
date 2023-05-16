@@ -1,0 +1,2 @@
+.btn.peach-gradient{color:#fff;-webkit-transition:.5s ease;transition:.5s ease}.btn.peach-gradient:hover,.btn.peach-gradient:focus,.btn.peach-gradient:active,.btn.peach-gradient:active:focus .btn.peach-gradient.active{background:-webkit-gradient(linear,left top,left bottom,from(#ffdf89),to(#fc7b7b));background:linear-gradient(#ffdf89,#fc7b7b)}
+        .peach-gradient{background:linear-gradient(40deg,#ffd86f,#fc6262) !important} .peach-gradient-rgba{background:linear-gradient(40deg,rgba(255,216,111,0.9),rgba(252,98,98,0.9)) !important}
